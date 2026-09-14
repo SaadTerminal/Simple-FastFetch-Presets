@@ -1,5 +1,7 @@
 # Simple-FastFetch-Presets
-<img width="1640" height="664" alt="Simple Fastfetch Presets" src="https://github.com/user-attachments/assets/a4b9ae13-ea01-49c7-a31a-887f3fba5709" />
+<p align="center">
+ <img width="1640" height="664" alt="Simple Fastfetch Presets" src="https://github.com/user-attachments/assets/a4b9ae13-ea01-49c7-a31a-887f3fba5709" />
+</p>
 
 **Configure a Fastfetch preset with a simple click — no manual JSON editing required.**
 
@@ -35,10 +37,10 @@ If `fastfetch` isn't installed, the script will offer to install it for you via 
 
 | # | Preset | What You Get |
 |---|--------|--------------|
-| 1 | **Minimal** | <img width="671" height="288" alt="Screenshot from 2026-09-14 02-25-04" src="https://github.com/user-attachments/assets/211440aa-92c6-46ad-9497-dc802f1f3922" /> |
-| 2 | **Compact** | <img width="616" height="372" alt="IMG_20260914_020454" src="https://github.com/user-attachments/assets/b08a3c35-dd3d-4ecc-8cdb-e5d334b7ef92" /> |
-| 3 | **Compact + IP** | <img width="668" height="362" alt="Screenshot from 2026-09-14 02-25-58" src="https://github.com/user-attachments/assets/4379db3c-66d6-4bdf-9ef1-86d4c01c07f2" /> |
-| 4 | **Full** | <img width="1530" height="665" alt="image" src="https://github.com/user-attachments/assets/2dc12a61-8dfb-4041-82f6-c8ae1ebccbdb" /> |
+| 1 | **Minimal** | <img width="700" alt="Screenshot from 2026-09-14 02-25-04" src="https://github.com/user-attachments/assets/211440aa-92c6-46ad-9497-dc802f1f3922" /> |
+| 2 | **Compact** | <img width="700" alt="IMG_20260914_020454" src="https://github.com/user-attachments/assets/b08a3c35-dd3d-4ecc-8cdb-e5d334b7ef92" /> |
+| 3 | **Compact + IP** | <img width="700" alt="Screenshot from 2026-09-14 02-25-58" src="https://github.com/user-attachments/assets/4379db3c-66d6-4bdf-9ef1-86d4c01c07f2" /> |
+| 4 | **Full** | <img width="700" alt="image" src="https://github.com/user-attachments/assets/2dc12a61-8dfb-4041-82f6-c8ae1ebccbdb" /> |
 
 ---
 
