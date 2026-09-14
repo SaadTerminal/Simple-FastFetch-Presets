@@ -66,7 +66,6 @@ chmod +x setup.sh
 ```bash
 ./setup.sh
 ```
-*⚠️  If fastfetch is installed in the root directory, you need to run the script as sudo ⚠️*
 
 That's it. The script will walk you through the rest interactively.
 
