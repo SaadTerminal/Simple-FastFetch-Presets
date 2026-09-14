@@ -3,7 +3,7 @@
  <img width="1640" height="664" alt="Simple Fastfetch Presets" src="https://github.com/user-attachments/assets/a4b9ae13-ea01-49c7-a31a-887f3fba5709" />
 </p>
 
-**Configure a Fastfetch preset with a simple click — no manual JSON editing required.**
+**Configure a Fastfetch preset with a simple click - no manual JSON editing required.**
 
 Simple Fastfetch Presets is a lightweight shell script that gives you four ready-made `fastfetch` configurations, applies the one you choose, backs up your existing config automatically, and optionally adds Fastfetch to your shell startup.
 
