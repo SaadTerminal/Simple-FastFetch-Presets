@@ -15,11 +15,11 @@ Built initially on **Linux Mint** with the default Mint terminal (GNOME Terminal
 
 ## Features
 
-- **First-run friendly** — no JSON knowledge needed
-- **Non-destructive** — automatic timestamped backups
-- **Scriptable** — flags for non-interactive/automated setups
-- **No dependencies beyond Fastfetch itself** — it's one bash script
-- **Easy to fork** — want your own preset? Drop a `.jsonc` file in `presets/` and add it to the list
+- **First-run friendly** -- no JSON knowledge needed
+- **Non-destructive** -- automatic timestamped backups
+- **Scriptable** -- flags for non-interactive/automated setups
+- **No dependencies beyond Fastfetch itself** -- it's one bash script
+- **Easy to fork** -- want your own preset? Drop a `.jsonc` file in `presets/` and add it to the list
 
 ---
 
